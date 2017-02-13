@@ -10,37 +10,6 @@
 [译] 前端攻略-从路人甲到英雄无敌	https://segmentfault.com/a/1190000005174755 <br />
 
 
-## Gulp
-
-Gulp官网	http://gulpjs.com <br />
-Gulp中文网	http://www.gulpjs.com.cn <br />
-gulp资料收集	https://github.com/Platform-CUF/use-gulp <br />
-Gulp：任务自动管理工具 - ruanyifeng	http://javascript.ruanyifeng.com/tool/gulp.html <br />
-Gulp插件	http://gulpjs.com/plugins <br />
-Gulp探究折腾之路(I)	http://www.jeffjade.com/2015/11/25/2015-11-25-toss-gulp/ <br />
-Gulp折腾之路(II)	http://www.jeffjade.com/2016/01/19/2016-01-19-toss-gulp/ <br />
-Gulp不完全入门教程	http://www.ido321.com/1622.html <br />
-为什么使用gulp?	https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33 <br />
-Gulp安装及配合组件构建前端开发一体化	http://www.dbpoo.com/getting-started-with-gulp <br />
-Gulp 入门指南	https://github.com/nimojs/gulp-book <br />
-Gulp 入门指南 - nimojs	https://github.com/nimojs/blog/issues/19 <br />
-Gulp in Action	http://www.imooc.com/video/5692 <br />
-Gulp开发教程（翻译）	http://www.w3ctech.com/topic/134 <br />
-前端构建工具gulpjs的使用介绍及技巧	http://www.cnblogs.com/2050/p/4198792.html <br />
-
-
-## iconfont
-
-中文字体	http://www.zhihu.com/question/21253343 <br />
-淘宝字库	http://iconfont.cn <br />
-字体	http://mux.alimama.com/fonts <br />
-制作教程	http://iconfont.cn/help/platform.html <br />
-zhangxinxu-icommon	http://www.zhangxinxu.com/wordpress/?s=icomoon <br />
-icommon	https://icomoon.io/app <br />
-用字体在网页中画ICON图标(推荐教程	http://imooc.com/learn/243 <br />
-字体压缩工具	http://font-spider.org <br />
-
-
 ## HTML5(HTML)
 
 深入理解HTML5标签	https://segmentfault.com/a/1190000002695791 <br />
@@ -85,9 +54,53 @@ sass教程-sass中国	http://www.sass.hk <br />
 Sass 中文文档	http://sass.bootcss.com <br />
 less	http://less.bootcss.com <br />
 
+
 ## JSON
 
 模拟生成JSON数据	http://beta.json-generator.com <br />
+
+
+## Gulp
+
+Gulp官网	http://gulpjs.com <br />
+Gulp中文网	http://www.gulpjs.com.cn <br />
+gulp资料收集	https://github.com/Platform-CUF/use-gulp <br />
+Gulp：任务自动管理工具 - ruanyifeng	http://javascript.ruanyifeng.com/tool/gulp.html <br />
+Gulp插件	http://gulpjs.com/plugins <br />
+Gulp探究折腾之路(I)	http://www.jeffjade.com/2015/11/25/2015-11-25-toss-gulp/ <br />
+Gulp折腾之路(II)	http://www.jeffjade.com/2016/01/19/2016-01-19-toss-gulp/ <br />
+Gulp不完全入门教程	http://www.ido321.com/1622.html <br />
+为什么使用gulp?	https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33 <br />
+Gulp安装及配合组件构建前端开发一体化	http://www.dbpoo.com/getting-started-with-gulp <br />
+Gulp 入门指南	https://github.com/nimojs/gulp-book <br />
+Gulp 入门指南 - nimojs	https://github.com/nimojs/blog/issues/19 <br />
+Gulp in Action	http://www.imooc.com/video/5692 <br />
+Gulp开发教程（翻译）	http://www.w3ctech.com/topic/134 <br />
+前端构建工具gulpjs的使用介绍及技巧	http://www.cnblogs.com/2050/p/4198792.html <br />
+
+
+## 常用CDN
+
+新浪CDN	http://lib.sinaapp.com <br />
+百度静态资源公共库	http://cdn.code.baidu.com <br />
+360网站卫士常用前端公共库CDN服务	http://libs.useso.com <br />
+Bootstrap中文网开源项目免费 CDN 服务	http://www.bootcdn.cn <br />
+开放静态文件 CDN - 七牛	http://staticfile.org <br />
+CDN加速 - jq22	http://www.jq22.com/cdn <br />
+jQuery CDN	http://code.jquery.com <br />
+微软CDN	http://www.asp.net/ajax/cdn <br />
+
+
+## iconfont
+
+中文字体	http://www.zhihu.com/question/21253343 <br />
+淘宝字库	http://iconfont.cn <br />
+字体	http://mux.alimama.com/fonts <br />
+制作教程	http://iconfont.cn/help/platform.html <br />
+zhangxinxu-icommon	http://www.zhangxinxu.com/wordpress/?s=icomoon <br />
+icommon	https://icomoon.io/app <br />
+用字体在网页中画ICON图标(推荐教程	http://imooc.com/learn/243 <br />
+字体压缩工具	http://font-spider.org <br />
 
 
 ## 前端规范
