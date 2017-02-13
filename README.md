@@ -5,6 +5,7 @@
 ## 前端概述
 
 前端工具大全	http://www.awesomes.cn <br />
+前端技术架构 http://saito.im/note/The-Architecture-of-F2E/ <br />
 什么是前端工程化	https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0# <br />
 [译] 前端攻略-从路人甲到英雄无敌	https://segmentfault.com/a/1190000005174755 <br />
 
