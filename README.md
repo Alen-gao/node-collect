@@ -1,5 +1,12 @@
 # node-collect
   收集前端相关知识和文博
+
+## HTML5(HTML)
+
+深入理解HTML5标签	https://segmentfault.com/a/1190000002695791 <br />
+如何写出高效率的HTML	https://segmentfault.com/a/1190000002680822 <br />
+HTML meta标签总结与属性使用介绍	https://segmentfault.com/a/1190000004279791 <br />
+戏说HTML5	http://www.cnblogs.com/dojo-lzz/p/5059316.html <br />
   
 ##VUE
 
