@@ -28,3 +28,32 @@ Front-End-Develop-Guide 前端开发指南  https://github.com/Front-End-Develop
 
 
 ##综合效果搜索平台
+JavaScript 资源大全中文版	  https://github.com/jobbole/awesome-javascript-cn
+100+ 超全的web开发工具和资源	https://xituqu.com/170.html
+设计师网址导航	              http://hao.uisdc.com/
+快搜	                      http://so.chongbuluo.com/
+阿里iconfont	              http://www.iconfont.cn/
+zoommyapp.com	              http://zoommyapp.com/ 高质量图库
+unsplash.com	              https://unsplash.com/ 高质量图库
+www.pinterest.com	          https://www.pinterest.com/ 图库
+New Old Stock	              http://nos.twnsnd.co 复古风图库
+500px.com	                  https://500px.com/ 唯美照片
+效果网	                      http://www.jq22.com
+花瓣网	                      http://huaban.com/
+优美图	                      http://www.topit.me/
+codepen	                    http://codepen.io/
+摄图网	                      http://699pic.com/
+常用的JavaScript代码片段	    http://microjs.com
+
+##团队Blog
+腾讯ISUX	                  http://isux.tencent.com
+奇舞周刊	                  http://old.75team.com/weekly/
+淘宝前端团队（FED）	         http://taobaofed.org
+码农周刊	                  http://weekly.manong.io
+WEB前端开发	                http://www.css88.com
+A JS tip per day!	         http://www.jstips.co
+腾讯全端 AlloyTeam	        http://www.alloyteam.com/webdevelop/
+阿里巴巴-U一点	            http://www.aliued.cn
+百度WEB前端研发部	         http://fex.baidu.com
+携程设计委员会	             http://ued.ctrip.com/blog/
+平安科技移动开发二队技术周报	https://github.com/PaicHyperionDev/MobileDevWeekly
